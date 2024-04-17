@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap'); 
+
+html{"font-family: Inter ;
+
+font-size: 18px
+}
+
+body{width: 45rem
+margin:auto}
+
+h1, h2, h3,{
+color: #23735d;
+}
